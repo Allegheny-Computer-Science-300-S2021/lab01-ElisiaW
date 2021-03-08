@@ -26,12 +26,13 @@ Please write below this line to address the above-mentioned points. Replace the 
 ### Second Tool
 
  1. What kind of research is this method or tool used for?
- `TODO`
+ QIIME is a bioinformatics pipeline that is utilized for performing microbiome analysis from raw DNA sequencing data.
 
  2. How does this method or tool work? What does it do?
- `TODO`
+ This tool creates publication quality graphics and statistics from user-generated raw sequencing data. This process includes: diversity analyses and visualizations, OTU picking, taxonomic assignment, demultiplexing and quality filtering, as well as phylogenetic reconstruction.
 
  3. Why do you think that this method or tool was necessary to develop?
- `TODO`
+ QIIME is an open-source tool. This allows for users to accurately represent data that was generated from Illumina or other platforms in a visual form.
 
- 4. What undesirable consequences could result from the misuse of this method of tool? `TODO`
+ 4. What undesirable consequences could result from the misuse of this method of tool?
+ This tool is accessed via the command line. With those that are not tech-savvy or those that have trouble following the tutorials, user error could report in inaccurate graphical data. 
